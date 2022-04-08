@@ -2,7 +2,7 @@
 
 This is my first project after finishing js. I added enventListeners to the buttons to listen to both click and keypress.
 
-This project has helped me learn the fundermentals of javascript including how to apply an effect to a specific tag element in HTML file and how eventListeners work
+This project has helped me learn the fundermentals of javascript including the DOM and how eventListeners work
 
 This is just a simple one, hoping to build complex and more beautiful ones
 
