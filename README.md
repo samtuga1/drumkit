@@ -1,6 +1,6 @@
 # drumkit
 
-This is my first project after finishing js. I added enventListeners to the buttons to listen to both click and keypress.
+This is my first project after finishing js. I added eventListeners to the buttons to listen to both click and keypress.
 
 This project has helped me learn the fundermentals of javascript including the DOM and how eventListeners work
 
